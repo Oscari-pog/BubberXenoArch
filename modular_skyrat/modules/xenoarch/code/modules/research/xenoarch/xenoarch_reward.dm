@@ -50,7 +50,7 @@ GLOBAL_LIST_INIT(tech_reward, list(
 	/obj/item/mod/module/chameleon = 2,
 	/obj/item/mod/module/plate_compression = 2,	
 	/obj/item/mod/module/noslip = 2,
-	/obj/item/autosurgeon/syndicate/anti_stun 1,
+	/obj/item/autosurgeon/syndicate/anti_stun = 1,
 	/obj/item/storage/box/syndie_kit/imp_microbomb = 1,	
 	/obj/item/autosurgeon/syndicate/reviver = 1,
 	/obj/item/autosurgeon/syndicate/thermal_eyes = 1,
